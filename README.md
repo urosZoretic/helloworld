@@ -1,3 +1,5 @@
 # helloworld
 My first repository.
-This repositoy I will use to share ideas with you.
+
+
+Hi, My name is Uroš and I am from Slovenia. I am humble and nice and I am trying to be helpful.
